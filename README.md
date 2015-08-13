@@ -1,2 +1,0 @@
-# datasciencecoursera
-# some comment
